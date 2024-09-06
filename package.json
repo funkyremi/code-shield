@@ -1,7 +1,7 @@
 {
   "name": "code-shield",
   "displayName": "Code Shield",
-  "description": "A powerful firewall for Visual Studio Code that monitors and controls network connections made by other extensions, ensuring a secure and controlled coding environment.",
+  "description": "A powerful firewall for VSCode that monitors and controls network connections made by other extensions, ensuring a secure and controlled coding environment.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
